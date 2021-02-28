@@ -1,0 +1,6 @@
+来到了学校，天有点灰蒙蒙的，可能是要下雨了吧。
+在图书馆学习的安排进行得挺顺利的。
+需要花时间研究一下VS Code的安装。
+VS code中C++平台已搭建完成
+git@github.com:YL-GIN/testgit.git 远程仓库已创建。ssh密匙。
+https://github.com/YL-GIN/testgit.git。https协议。
