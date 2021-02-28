@@ -4,3 +4,8 @@
 VS code中C++平台已搭建完成
 git@github.com:YL-GIN/testgit.git 远程仓库已创建。ssh密匙。
 https://github.com/YL-GIN/testgit.git。https协议。
+ssh操作远程仓库，于仓库文件夹使用
+（git remove rm origin）
+git remote add origin git@github.com:YL-GIN/testgit.git
+git branch -M main
+git push -u origin main
