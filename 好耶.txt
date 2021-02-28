@@ -9,3 +9,8 @@ ssh操作远程仓库，于仓库文件夹使用
 git remote add origin git@github.com:YL-GIN/testgit.git
 git branch -M main
 git push -u origin main
+git分支通过git branch来进行转变分支。多分支指向主分支。
+
+
+
+
