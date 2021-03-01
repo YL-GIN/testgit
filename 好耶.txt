@@ -10,6 +10,7 @@ git remote add origin git@github.com:YL-GIN/testgit.git
 git branch -M main
 git push -u origin main
 git分支通过git branch来进行转变分支。多分支指向主分支。
+git主分支要时刻保持与GitHub上的仓库一致。分支也可独自上传到GitHub上。
 
 
 
