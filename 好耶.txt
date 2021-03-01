@@ -11,6 +11,7 @@ git branch -M main
 git push -u origin main
 git分支通过git branch来进行转变分支。多分支指向主分支。
 git主分支要时刻保持与GitHub上的仓库一致。分支也可独自上传到GitHub上。
+从远程仓库中下载下一个包后，可以通过添加分支来进行继续他人的工作。
 
 
 
